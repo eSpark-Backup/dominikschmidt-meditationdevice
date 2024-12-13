@@ -6,7 +6,7 @@ Design a PCB and electronics for a meditation device. The devices includes two d
 
 Some core features include:
 - MCU capable to stream audio over bluetooth.
-- LCD screen 2.1 inches for display and essential controls. The product brief at [this link](https://github.com/eSpark-Consultants/dominikschmidt-meditationdevice/blob/main/docs/Client-Files/Project-Requirements/Meditation%20device%20brief.pdf) depicts an old concept without LCD and requiring buttons, but all button functions will now be handled through the touch LCD itself.
+- [LCD screen 2.1 inches](https://www.alibaba.com/product-detail/2-1-inch-Circular-LCD-Screen_1601257300607.html?spm=a2700.galleryofferlist.normal_offer.d_title.2a9d13a0MZzEQm) for display and essential controls. The product brief at [this link](https://github.com/eSpark-Consultants/dominikschmidt-meditationdevice/blob/main/docs/Client-Files/Project-Requirements/Meditation%20device%20brief.pdf) depicts an old concept without LCD and requiring buttons, but all button functions will now be handled through the touch LCD itself.
 - SD card able to store up to 50 audio samples each about 10 minutes long.
 - Main power button to turn ON/OFF the device.
 - Dial for timer going up to 1 hour with 5 min increments. The dial should be free to rotate completely without getting blocked. It should also have a bit of a haptic feedback, clicking slightly every few degrees.
