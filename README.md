@@ -11,7 +11,7 @@ Some core features include:
 - Main power button to turn ON/OFF the device.
 - Dial for timer going up to 1 hour with 5 min increments. The dial should be free to rotate completely without getting blocked. It should also have a bit of a haptic feedback, clicking slightly every few degrees.
 - ON/OFF button should be on one end and the rotary switch should be on the other end.
-- Product should be battery powered. Available space for battery inside the casing will be provided and shared.
+- Product should be battery powered. Available space for battery inside the casing is maximum size of around 50x40x15mm. This can be increased very slightly if really needed.
 - DXF of PCB is available at [this link](https://github.com/eSpark-Consultants/dominikschmidt-meditationdevice/blob/main/docs/Client-Files/PCB-DXF/PCB%20dxf.dxf).
 
 ### Product Concept Image
