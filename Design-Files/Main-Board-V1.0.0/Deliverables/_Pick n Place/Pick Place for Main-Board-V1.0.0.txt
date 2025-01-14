@@ -4,16 +4,16 @@ C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\dominikschmidt-med
 ========================================================================================================================
 File Design Information:
 
-Date:       10/01/25
-Time:       18:28
-Revision:   b6ef81cd93ad23d3ccb3c7e49424e21cd1a1c9b3
+Date:       14/01/25
+Time:       19:28
+Revision:   8e49f77049a21a37bc964058e99b60ac904e18ac
 Variant:    No variations
 Units used: mm
 
 Designator Center-X(mm) Center-Y(mm) Layer       Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
 C1         23.2611mm    14.1570mm    BottomLayer 180      23.2611mm 14.1570mm 24.0231mm 14.1570mm 
 C2         22.8801mm    12.7114mm    BottomLayer 180      22.8801mm 12.7114mm 23.3500mm 12.7114mm 
-C3         16.2299mm    10.4140mm    BottomLayer 0        16.2299mm 10.4140mm 15.4799mm 10.4140mm 
+C3         16.0775mm    10.4140mm    BottomLayer 0        16.0775mm 10.4140mm 15.3275mm 10.4140mm 
 C4         4.6176mm     15.3670mm    BottomLayer 0        4.6176mm  15.3670mm 4.1477mm  15.3670mm 
 C5         4.3469mm     18.4134mm    BottomLayer 180      4.3469mm  18.4134mm 5.0169mm  18.4134mm 
 C7         4.6176mm     16.8526mm    BottomLayer 0        4.6176mm  16.8526mm 4.1477mm  16.8526mm 
@@ -94,7 +94,7 @@ R30        54.3612mm    16.5700mm    BottomLayer 0        54.3612mm 16.5700mm 53
 R31        54.3611mm    15.3000mm    BottomLayer 180      54.3611mm 15.3000mm 55.1231mm 15.3000mm 
 R32        31.3010mm    9.5850mm     BottomLayer 180      31.3010mm 9.5850mm  31.7709mm 9.5850mm  
 R33        30.9200mm    21.6105mm    BottomLayer 180      30.9200mm 21.6105mm 31.3899mm 21.6105mm 
-R34        30.9200mm    20.2541mm    BottomLayer 0        30.9200mm 20.2541mm 30.4501mm 20.2541mm 
+R34        30.9200mm    20.2541mm    BottomLayer 180      30.9200mm 20.2541mm 31.3899mm 20.2541mm 
 R35        74.1172mm    19.4691mm    BottomLayer 270      74.1172mm 19.4691mm 74.1172mm 19.9390mm 
 R36        74.1172mm    25.4381mm    BottomLayer 90       74.1172mm 25.4381mm 74.1172mm 24.9682mm 
 R37        15.4305mm    24.4230mm    BottomLayer 90       15.4305mm 24.4230mm 15.4305mm 23.9531mm 
@@ -109,7 +109,7 @@ R45        29.3408mm    14.1570mm    BottomLayer 180      29.3408mm 14.1570mm 29
 R46        53.9294mm    20.0942mm    BottomLayer 0        53.9294mm 20.0942mm 53.4595mm 20.0942mm 
 SW1        0.7367mm     31.8079mm    BottomLayer 257      0.8717mm  31.5380mm 2.5921mm  33.6553mm 
 SW2        0.7367mm     13.1921mm    BottomLayer 283      0.8717mm  13.4620mm 1.4898mm  16.1192mm 
-SW3        26.6216mm    8.1046mm     BottomLayer 0        26.6216mm 8.1046mm  24.9216mm 8.1046mm  
+SW3        26.6216mm    8.1046mm     BottomLayer 0        26.6216mm 8.1046mm  24.9466mm 8.1046mm  
 SW4        78.1401mm    22.4999mm    TopLayer    270      78.1401mm 22.4999mm 76.0652mm 24.5000mm 
 U1         10.5410mm    15.3670mm    BottomLayer 90       10.5410mm 15.3670mm 7.4910mm  13.0670mm 
 U2         20.5740mm    19.0400mm    BottomLayer 90       20.5740mm 19.0400mm 22.4790mm 16.5425mm 
