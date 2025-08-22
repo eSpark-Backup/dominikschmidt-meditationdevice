@@ -4,6 +4,7 @@ C2,22.8801mm,12.7114mm,Bottom,180
 C3,10.4778mm,14.3983mm,Bottom,0
 C4,10.4779mm,12.7982mm,Bottom,0
 C5,14.3476mm,19.0401mm,Bottom,180
+C6,58.4864mm,39.8549mm,Bottom,0
 C8,4.5913mm,27.0900mm,Bottom,0
 C9,4.5913mm,28.7029mm,Bottom,0
 C10,19.8628mm,29.0830mm,Bottom,270
@@ -148,6 +149,8 @@ R65,14.3477mm,18.0191mm,Bottom,180
 R66,14.3476mm,15.1802mm,Bottom,180
 R67,14.8175mm,16.5913mm,Bottom,90
 R68,46.7569mm,42.8003mm,Bottom,90
+R69,13.5290mm,25.4025mm,Bottom,90
+R70,59.9950mm,42.0116mm,Bottom,270
 SW1,0.7367mm,31.8079mm,Bottom,257
 SW2,0.7367mm,13.1921mm,Bottom,283
 SW3,26.6216mm,8.1046mm,Bottom,0

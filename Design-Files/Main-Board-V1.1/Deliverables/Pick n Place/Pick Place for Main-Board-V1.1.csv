@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-D:\eSpark-Consultants\dominikschmidt-meditationdevice\Design-Files\Main-Board-V1.1\Project Outputs for Main-Board-V1.1\Pick Place for Main-Board-V1.1.csv
+D:\eSpark Consultants\dominikschmidt-meditationdevice\Design-Files\Main-Board-V1.1\Project Outputs for Main-Board-V1.1\Pick Place for Main-Board-V1.1.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       30/07/25
-Time:       22:56
-Revision:   618ebb807439fcb786e0acb31da9cfc0d1ef4ab3
+Date:       22/08/25
+Time:       16:48
+Revision:   5892b898067a967745b50da94305a115418040d7
 Variant:    No variations
 Units used: mm
 
@@ -16,6 +16,7 @@ Units used: mm
 "C3","10.4778mm","14.3983mm","BottomLayer","0","10.4778mm","14.3983mm","10.0079mm","14.3983mm"
 "C4","10.4779mm","12.7982mm","BottomLayer","0","10.4779mm","12.7982mm","9.4619mm","12.7982mm"
 "C5","14.3476mm","19.0401mm","BottomLayer","180","14.3476mm","19.0401mm","14.8175mm","19.0401mm"
+"C6","58.4864mm","39.8549mm","BottomLayer","0","58.4864mm","39.8549mm","58.1864mm","39.8549mm"
 "C8","4.5913mm","27.0900mm","BottomLayer","0","4.5913mm","27.0900mm","3.8293mm","27.0900mm"
 "C9","4.5913mm","28.7029mm","BottomLayer","0","4.5913mm","28.7029mm","3.8293mm","28.7029mm"
 "C10","19.8628mm","29.0830mm","BottomLayer","270","19.8628mm","29.0830mm","19.8628mm","30.0990mm"
@@ -160,6 +161,8 @@ Units used: mm
 "R66","14.3476mm","15.1802mm","BottomLayer","180","14.3476mm","15.1802mm","14.8175mm","15.1802mm"
 "R67","14.8175mm","16.5913mm","BottomLayer","90","14.8175mm","16.5913mm","14.8175mm","16.1214mm"
 "R68","46.7569mm","42.8003mm","BottomLayer","90","46.7569mm","42.8003mm","46.7569mm","42.3304mm"
+"R69","13.5290mm","25.4025mm","BottomLayer","90","13.5290mm","25.4025mm","13.5290mm","24.9326mm"
+"R70","59.9950mm","42.0116mm","BottomLayer","270","59.9950mm","42.0116mm","59.9950mm","42.7736mm"
 "SW1","0.7367mm","31.8079mm","BottomLayer","257","0.8717mm","31.5380mm","2.5921mm","33.6553mm"
 "SW2","0.7367mm","13.1921mm","BottomLayer","283","0.8717mm","13.4620mm","1.4898mm","16.1192mm"
 "SW3","26.6216mm","8.1046mm","BottomLayer","0","26.6216mm","8.1046mm","24.9466mm","8.1046mm"
